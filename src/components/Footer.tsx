@@ -23,6 +23,18 @@ export function Footer() {
             <span>by O.A Chocolate</span>
           </div>
 
+          <div className="text-white/60 mb-8">
+            made with love with{' '}
+            <a
+              href="https://addvalue.tech"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-white underline"
+            >
+              addvalue.tech
+            </a>
+          </div>
+
           <div className="w-full max-w-2xl h-px bg-gradient-to-r from-transparent via-white/20 to-transparent mb-8"></div>
 
           <p className="text-white/40">© 2025 O.A Chocolate. All rights reserved.</p>
