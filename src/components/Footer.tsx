@@ -26,12 +26,12 @@ export function Footer() {
           <div className="text-white/60 mb-8">
             made with love with{' '}
             <a
-              href="https://addvalue.tech"
+              href="https://addvalues.tech"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white underline"
             >
-              addvalue.tech
+                addvalues.tech
             </a>
           </div>
 
